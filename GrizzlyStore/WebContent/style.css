@@ -1,0 +1,58 @@
+@CHARSET "ISO-8859-1";
+#uname {
+	border-radius: 18px;
+    background: #DCDCDC;
+    padding: 1px; 
+    width: 200px;
+    height: 20px;
+}
+
+#pass {
+	border-radius: 18px;
+    background: #DCDCDC;
+    padding: 1px; 
+    width: 200px;
+    height: 20px;
+}
+
+#login {
+	color: white;
+	border-radius: 18px;
+    background: #808080;
+    padding: 1px; 
+    width: 100px;
+    height: 25px;
+}
+
+#logout {
+	float: right;
+	color: white;
+	border-radius: 18px;
+    background: #808080;
+    padding: 1px; 
+    width: 100px;
+    height: 25px;
+}
+
+#search {
+	line-height: 80px;
+	border-radius: 18px;
+	padding: 1px; 
+    width: 200px;
+    height: 20px;
+    margin-left: 100px;
+ 	
+}
+
+.right {
+	float: right;
+}
+ 	
+#welcome {
+	margin-right: 10px;
+}
+ 	
+.header {
+	background: #F5F5F5;
+	padding: 10px;
+}
